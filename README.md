@@ -1,16 +1,31 @@
-## Hi there 👋
+I'm a Data Scientist and Machine Learning Engineer.
 
-<!--
-**thiagomosantos/thiagomosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:books: Academic background:
+  - BSc in Economics.
+  - M.B.A. in Data Science on USP.
 
-Here are some ideas to get you started:
+  I have developed projects:
+  - **Text Classification**
+  - **Entity Extraction**
+  - **Object Recognition**
+  - **Text-to-Speech**
+  - **Speech-to-Text**
+  - **Translation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me and start a chat:
+- [LinkedIn](https://www.linkedin.com/in/thiagomosantos/)
+- Email: [thiagomotacan@gmail.com](mailto:thiagomotacan@gmail.com)
+
+### Tools:
+- **Python**
+- **GCP**
+- **spaCy**
+- **Prodigy**
+- **Hugging Face**
+- **Docker**
+- **SQL**
+- **FastAPI**
+- **GIT**
+- **Pytest**
+- **LangChain**
+- **Algolia**
