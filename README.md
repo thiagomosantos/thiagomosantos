@@ -1,24 +1,24 @@
-I'm a Data Scientist and Machine Learning Engineer.
+## About Me
 
-:books: Academic background:
-  - BSc in Economics.
-  - M.B.A. in Data Science on USP.
+I'm a Data Scientist and Machine Learning Engineer with a strong background in Economics and Data Science. My expertise includes developing innovative solutions for various AI and machine learning projects.
 
-  I have developed projects:
-  - **Text Classification**
-  - **Entity Extraction**
-  - **Object Recognition**
-  - **Text-to-Speech**
-  - **Speech-to-Text**
-  - **Translation**
+### 🎓 Academic Background:
+- **BSc in Economics**
+- **MBA in Data Science** from USP
 
-### Connect with me and start a chat:
-- [LinkedIn](https://www.linkedin.com/in/thiagomosantos/)
-- Email: [thiagomotacan@gmail.com](mailto:thiagomotacan@gmail.com)
+### 📚 Projects:
+I have worked on a range of exciting projects, including:
+- **Text Classification**
+- **Entity Extraction**
+- **Object Recognition**
+- **Text-to-Speech**
+- **Speech-to-Text**
+- **Translation**
 
-### Tools:
+### 🔧 Tools and Technologies:
+I am proficient in a variety of tools and technologies, including:
 - **Python**
-- **GCP**
+- **Google Cloud Platform (GCP)**
 - **spaCy**
 - **Prodigy**
 - **Hugging Face**
@@ -29,3 +29,8 @@ I'm a Data Scientist and Machine Learning Engineer.
 - **Pytest**
 - **LangChain**
 - **Algolia**
+
+### 📞 Connect with Me:
+Feel free to reach out and start a conversation:
+- **[LinkedIn](https://www.linkedin.com/in/thiagomosantos/)**
+- **Email:** [thiagomotacan@gmail.com](mailto:thiagomotacan@gmail.com)
